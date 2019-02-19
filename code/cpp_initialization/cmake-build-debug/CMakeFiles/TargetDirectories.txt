@@ -1,0 +1,3 @@
+C:/Users/draghan/Desktop/training/cpp_initialization/cmake-build-debug/CMakeFiles/cpp_initialization.dir
+C:/Users/draghan/Desktop/training/cpp_initialization/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/draghan/Desktop/training/cpp_initialization/cmake-build-debug/CMakeFiles/rebuild_cache.dir

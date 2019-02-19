@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/draghan/Desktop/training/user_defined_conversion/Potato.hpp
+iostream
+-
+Types.hpp
+C:/Users/draghan/Desktop/training/user_defined_conversion/Types.hpp
+
+C:/Users/draghan/Desktop/training/user_defined_conversion/RoundSeal.hpp
+iostream
+-
+Types.hpp
+C:/Users/draghan/Desktop/training/user_defined_conversion/Types.hpp
+Potato.hpp
+C:/Users/draghan/Desktop/training/user_defined_conversion/Potato.hpp
+
+C:/Users/draghan/Desktop/training/user_defined_conversion/Types.hpp
+string
+-
+
+C:/Users/draghan/Desktop/training/user_defined_conversion/main.cpp
+Potato.hpp
+C:/Users/draghan/Desktop/training/user_defined_conversion/Potato.hpp
+RoundSeal.hpp
+C:/Users/draghan/Desktop/training/user_defined_conversion/RoundSeal.hpp
+
