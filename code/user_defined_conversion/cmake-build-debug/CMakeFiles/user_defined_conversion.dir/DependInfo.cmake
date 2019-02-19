@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/draghan/Desktop/training/user_defined_conversion/Potato.cpp" "C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/CMakeFiles/user_defined_conversion.dir/Potato.cpp.obj"
-  "C:/Users/draghan/Desktop/training/user_defined_conversion/RoundSeal.cpp" "C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/CMakeFiles/user_defined_conversion.dir/RoundSeal.cpp.obj"
-  "C:/Users/draghan/Desktop/training/user_defined_conversion/main.cpp" "C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/CMakeFiles/user_defined_conversion.dir/main.cpp.obj"
+  "H:/training_cpp/code/user_defined_conversion/Potato.cpp" "H:/training_cpp/code/user_defined_conversion/cmake-build-debug/CMakeFiles/user_defined_conversion.dir/Potato.cpp.obj"
+  "H:/training_cpp/code/user_defined_conversion/RoundSeal.cpp" "H:/training_cpp/code/user_defined_conversion/cmake-build-debug/CMakeFiles/user_defined_conversion.dir/RoundSeal.cpp.obj"
+  "H:/training_cpp/code/user_defined_conversion/main.cpp" "H:/training_cpp/code/user_defined_conversion/cmake-build-debug/CMakeFiles/user_defined_conversion.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

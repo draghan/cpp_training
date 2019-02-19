@@ -8,97 +8,97 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug"/>
+				<Option working_dir="H:/training_cpp/code/user_defined_conversion/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;H:/training_cpp/code/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;H:/training_cpp/code/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;H:/training_cpp/code/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;H:/training_cpp/code/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug"/>
+				<Option working_dir="H:/training_cpp/code/user_defined_conversion/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;H:/training_cpp/code/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;H:/training_cpp/code/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;H:/training_cpp/code/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;H:/training_cpp/code/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="user_defined_conversion">
-				<Option output="C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/user_defined_conversion.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug"/>
+				<Option output="H:/training_cpp/code/user_defined_conversion/cmake-build-debug/user_defined_conversion.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="H:/training_cpp/code/user_defined_conversion/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++/x86_64-w64-mingw32"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++/backward"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include-fixed"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 user_defined_conversion"/>
-					<CompileFile command="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;H:/training_cpp/code/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 user_defined_conversion"/>
+					<CompileFile command="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;H:/training_cpp/code/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;H:/training_cpp/code/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;H:/training_cpp/code/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="user_defined_conversion/fast">
-				<Option output="C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/user_defined_conversion.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug"/>
+				<Option output="H:/training_cpp/code/user_defined_conversion/cmake-build-debug/user_defined_conversion.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="H:/training_cpp/code/user_defined_conversion/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++/x86_64-w64-mingw32"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++/backward"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include-fixed"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 user_defined_conversion/fast"/>
-					<CompileFile command="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;H:/training_cpp/code/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 user_defined_conversion/fast"/>
+					<CompileFile command="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;H:/training_cpp/code/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;H:/training_cpp/code/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;H:/training_cpp/code/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug"/>
+				<Option working_dir="H:/training_cpp/code/user_defined_conversion/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;H:/training_cpp/code/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;H:/training_cpp/code/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;H:/training_cpp/code/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/mingw32-make.exe -f &quot;H:/training_cpp/code/user_defined_conversion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/draghan/Desktop/training/user_defined_conversion/Potato.cpp">
+		<Unit filename="H:/training_cpp/code/user_defined_conversion/Potato.cpp">
 			<Option target="user_defined_conversion"/>
 		</Unit>
-		<Unit filename="C:/Users/draghan/Desktop/training/user_defined_conversion/Potato.hpp">
+		<Unit filename="H:/training_cpp/code/user_defined_conversion/Potato.hpp">
 			<Option target="user_defined_conversion"/>
 		</Unit>
-		<Unit filename="C:/Users/draghan/Desktop/training/user_defined_conversion/RoundSeal.cpp">
+		<Unit filename="H:/training_cpp/code/user_defined_conversion/RoundSeal.cpp">
 			<Option target="user_defined_conversion"/>
 		</Unit>
-		<Unit filename="C:/Users/draghan/Desktop/training/user_defined_conversion/RoundSeal.hpp">
+		<Unit filename="H:/training_cpp/code/user_defined_conversion/RoundSeal.hpp">
 			<Option target="user_defined_conversion"/>
 		</Unit>
-		<Unit filename="C:/Users/draghan/Desktop/training/user_defined_conversion/Types.hpp">
+		<Unit filename="H:/training_cpp/code/user_defined_conversion/Types.hpp">
 			<Option target="user_defined_conversion"/>
 		</Unit>
-		<Unit filename="C:/Users/draghan/Desktop/training/user_defined_conversion/main.cpp">
+		<Unit filename="H:/training_cpp/code/user_defined_conversion/main.cpp">
 			<Option target="user_defined_conversion"/>
 		</Unit>
-		<Unit filename="C:/Users/draghan/Desktop/training/user_defined_conversion/CMakeLists.txt">
+		<Unit filename="H:/training_cpp/code/user_defined_conversion/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

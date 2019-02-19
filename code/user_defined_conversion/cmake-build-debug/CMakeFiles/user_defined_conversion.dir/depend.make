@@ -5,7 +5,6 @@ CMakeFiles/user_defined_conversion.dir/Potato.cpp.obj: ../Potato.cpp
 CMakeFiles/user_defined_conversion.dir/Potato.cpp.obj: ../Potato.hpp
 CMakeFiles/user_defined_conversion.dir/Potato.cpp.obj: ../Types.hpp
 
-CMakeFiles/user_defined_conversion.dir/RoundSeal.cpp.obj: ../Potato.hpp
 CMakeFiles/user_defined_conversion.dir/RoundSeal.cpp.obj: ../RoundSeal.cpp
 CMakeFiles/user_defined_conversion.dir/RoundSeal.cpp.obj: ../RoundSeal.hpp
 CMakeFiles/user_defined_conversion.dir/RoundSeal.cpp.obj: ../Types.hpp

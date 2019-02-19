@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2018.3.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\draghan\Desktop\training\user_defined_conversion
+CMAKE_SOURCE_DIR = H:\training_cpp\code\user_defined_conversion
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\draghan\Desktop\training\user_defined_conversion\cmake-build-debug
+CMAKE_BINARY_DIR = H:\training_cpp\code\user_defined_conversion\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/user_defined_conversion.dir/depend.make
@@ -58,42 +58,42 @@ include CMakeFiles/user_defined_conversion.dir/flags.make
 
 CMakeFiles/user_defined_conversion.dir/main.cpp.obj: CMakeFiles/user_defined_conversion.dir/flags.make
 CMakeFiles/user_defined_conversion.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\draghan\Desktop\training\user_defined_conversion\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/user_defined_conversion.dir/main.cpp.obj"
-	"C:\Program Files\mingw-w64\x86_64-7.1.0-posix-seh-rt_v5-rev0\mingw64\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\user_defined_conversion.dir\main.cpp.obj -c C:\Users\draghan\Desktop\training\user_defined_conversion\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=H:\training_cpp\code\user_defined_conversion\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/user_defined_conversion.dir/main.cpp.obj"
+	"C:\Program Files\mingw-w64\x86_64-7.3.0-posix-seh-rt_v5-rev0\mingw64\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\user_defined_conversion.dir\main.cpp.obj -c H:\training_cpp\code\user_defined_conversion\main.cpp
 
 CMakeFiles/user_defined_conversion.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/user_defined_conversion.dir/main.cpp.i"
-	"C:\Program Files\mingw-w64\x86_64-7.1.0-posix-seh-rt_v5-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\draghan\Desktop\training\user_defined_conversion\main.cpp > CMakeFiles\user_defined_conversion.dir\main.cpp.i
+	"C:\Program Files\mingw-w64\x86_64-7.3.0-posix-seh-rt_v5-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E H:\training_cpp\code\user_defined_conversion\main.cpp > CMakeFiles\user_defined_conversion.dir\main.cpp.i
 
 CMakeFiles/user_defined_conversion.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/user_defined_conversion.dir/main.cpp.s"
-	"C:\Program Files\mingw-w64\x86_64-7.1.0-posix-seh-rt_v5-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\draghan\Desktop\training\user_defined_conversion\main.cpp -o CMakeFiles\user_defined_conversion.dir\main.cpp.s
+	"C:\Program Files\mingw-w64\x86_64-7.3.0-posix-seh-rt_v5-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S H:\training_cpp\code\user_defined_conversion\main.cpp -o CMakeFiles\user_defined_conversion.dir\main.cpp.s
 
 CMakeFiles/user_defined_conversion.dir/RoundSeal.cpp.obj: CMakeFiles/user_defined_conversion.dir/flags.make
 CMakeFiles/user_defined_conversion.dir/RoundSeal.cpp.obj: ../RoundSeal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\draghan\Desktop\training\user_defined_conversion\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/user_defined_conversion.dir/RoundSeal.cpp.obj"
-	"C:\Program Files\mingw-w64\x86_64-7.1.0-posix-seh-rt_v5-rev0\mingw64\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\user_defined_conversion.dir\RoundSeal.cpp.obj -c C:\Users\draghan\Desktop\training\user_defined_conversion\RoundSeal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=H:\training_cpp\code\user_defined_conversion\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/user_defined_conversion.dir/RoundSeal.cpp.obj"
+	"C:\Program Files\mingw-w64\x86_64-7.3.0-posix-seh-rt_v5-rev0\mingw64\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\user_defined_conversion.dir\RoundSeal.cpp.obj -c H:\training_cpp\code\user_defined_conversion\RoundSeal.cpp
 
 CMakeFiles/user_defined_conversion.dir/RoundSeal.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/user_defined_conversion.dir/RoundSeal.cpp.i"
-	"C:\Program Files\mingw-w64\x86_64-7.1.0-posix-seh-rt_v5-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\draghan\Desktop\training\user_defined_conversion\RoundSeal.cpp > CMakeFiles\user_defined_conversion.dir\RoundSeal.cpp.i
+	"C:\Program Files\mingw-w64\x86_64-7.3.0-posix-seh-rt_v5-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E H:\training_cpp\code\user_defined_conversion\RoundSeal.cpp > CMakeFiles\user_defined_conversion.dir\RoundSeal.cpp.i
 
 CMakeFiles/user_defined_conversion.dir/RoundSeal.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/user_defined_conversion.dir/RoundSeal.cpp.s"
-	"C:\Program Files\mingw-w64\x86_64-7.1.0-posix-seh-rt_v5-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\draghan\Desktop\training\user_defined_conversion\RoundSeal.cpp -o CMakeFiles\user_defined_conversion.dir\RoundSeal.cpp.s
+	"C:\Program Files\mingw-w64\x86_64-7.3.0-posix-seh-rt_v5-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S H:\training_cpp\code\user_defined_conversion\RoundSeal.cpp -o CMakeFiles\user_defined_conversion.dir\RoundSeal.cpp.s
 
 CMakeFiles/user_defined_conversion.dir/Potato.cpp.obj: CMakeFiles/user_defined_conversion.dir/flags.make
 CMakeFiles/user_defined_conversion.dir/Potato.cpp.obj: ../Potato.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\draghan\Desktop\training\user_defined_conversion\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/user_defined_conversion.dir/Potato.cpp.obj"
-	"C:\Program Files\mingw-w64\x86_64-7.1.0-posix-seh-rt_v5-rev0\mingw64\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\user_defined_conversion.dir\Potato.cpp.obj -c C:\Users\draghan\Desktop\training\user_defined_conversion\Potato.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=H:\training_cpp\code\user_defined_conversion\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/user_defined_conversion.dir/Potato.cpp.obj"
+	"C:\Program Files\mingw-w64\x86_64-7.3.0-posix-seh-rt_v5-rev0\mingw64\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\user_defined_conversion.dir\Potato.cpp.obj -c H:\training_cpp\code\user_defined_conversion\Potato.cpp
 
 CMakeFiles/user_defined_conversion.dir/Potato.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/user_defined_conversion.dir/Potato.cpp.i"
-	"C:\Program Files\mingw-w64\x86_64-7.1.0-posix-seh-rt_v5-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\draghan\Desktop\training\user_defined_conversion\Potato.cpp > CMakeFiles\user_defined_conversion.dir\Potato.cpp.i
+	"C:\Program Files\mingw-w64\x86_64-7.3.0-posix-seh-rt_v5-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E H:\training_cpp\code\user_defined_conversion\Potato.cpp > CMakeFiles\user_defined_conversion.dir\Potato.cpp.i
 
 CMakeFiles/user_defined_conversion.dir/Potato.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/user_defined_conversion.dir/Potato.cpp.s"
-	"C:\Program Files\mingw-w64\x86_64-7.1.0-posix-seh-rt_v5-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\draghan\Desktop\training\user_defined_conversion\Potato.cpp -o CMakeFiles\user_defined_conversion.dir\Potato.cpp.s
+	"C:\Program Files\mingw-w64\x86_64-7.3.0-posix-seh-rt_v5-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S H:\training_cpp\code\user_defined_conversion\Potato.cpp -o CMakeFiles\user_defined_conversion.dir\Potato.cpp.s
 
 # Object files for target user_defined_conversion
 user_defined_conversion_OBJECTS = \
@@ -111,7 +111,7 @@ user_defined_conversion.exe: CMakeFiles/user_defined_conversion.dir/build.make
 user_defined_conversion.exe: CMakeFiles/user_defined_conversion.dir/linklibs.rsp
 user_defined_conversion.exe: CMakeFiles/user_defined_conversion.dir/objects1.rsp
 user_defined_conversion.exe: CMakeFiles/user_defined_conversion.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\draghan\Desktop\training\user_defined_conversion\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable user_defined_conversion.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=H:\training_cpp\code\user_defined_conversion\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable user_defined_conversion.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\user_defined_conversion.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -124,6 +124,6 @@ CMakeFiles/user_defined_conversion.dir/clean:
 .PHONY : CMakeFiles/user_defined_conversion.dir/clean
 
 CMakeFiles/user_defined_conversion.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\draghan\Desktop\training\user_defined_conversion C:\Users\draghan\Desktop\training\user_defined_conversion C:\Users\draghan\Desktop\training\user_defined_conversion\cmake-build-debug C:\Users\draghan\Desktop\training\user_defined_conversion\cmake-build-debug C:\Users\draghan\Desktop\training\user_defined_conversion\cmake-build-debug\CMakeFiles\user_defined_conversion.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" H:\training_cpp\code\user_defined_conversion H:\training_cpp\code\user_defined_conversion H:\training_cpp\code\user_defined_conversion\cmake-build-debug H:\training_cpp\code\user_defined_conversion\cmake-build-debug H:\training_cpp\code\user_defined_conversion\cmake-build-debug\CMakeFiles\user_defined_conversion.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/user_defined_conversion.dir/depend
 

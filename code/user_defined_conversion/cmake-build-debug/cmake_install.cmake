@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/draghan/Desktop/training/user_defined_conversion
+# Install script for directory: H:/training_cpp/code/user_defined_conversion
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/draghan/Desktop/training/user_defined_conversion/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "H:/training_cpp/code/user_defined_conversion/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
