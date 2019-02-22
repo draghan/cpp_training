@@ -1,3 +1,0 @@
-H:/training_cpp/code/dangling_pointer/cmake-build-debug/CMakeFiles/dangling_pointer.dir
-H:/training_cpp/code/dangling_pointer/cmake-build-debug/CMakeFiles/edit_cache.dir
-H:/training_cpp/code/dangling_pointer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

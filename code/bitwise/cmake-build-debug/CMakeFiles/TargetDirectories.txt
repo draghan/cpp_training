@@ -1,3 +1,0 @@
-C:/Users/draghan/Desktop/training/bitwise/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/draghan/Desktop/training/bitwise/cmake-build-debug/CMakeFiles/bitwise.dir
-C:/Users/draghan/Desktop/training/bitwise/cmake-build-debug/CMakeFiles/rebuild_cache.dir

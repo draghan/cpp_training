@@ -1,3 +1,0 @@
-H:/training_cpp/code/user_defined_conversion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-H:/training_cpp/code/user_defined_conversion/cmake-build-debug/CMakeFiles/user_defined_conversion.dir
-H:/training_cpp/code/user_defined_conversion/cmake-build-debug/CMakeFiles/edit_cache.dir

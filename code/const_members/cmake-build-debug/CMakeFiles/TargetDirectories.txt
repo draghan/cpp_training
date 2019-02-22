@@ -1,3 +1,0 @@
-H:/training_cpp/code/const_members/cmake-build-debug/CMakeFiles/const_members.dir
-H:/training_cpp/code/const_members/cmake-build-debug/CMakeFiles/edit_cache.dir
-H:/training_cpp/code/const_members/cmake-build-debug/CMakeFiles/rebuild_cache.dir

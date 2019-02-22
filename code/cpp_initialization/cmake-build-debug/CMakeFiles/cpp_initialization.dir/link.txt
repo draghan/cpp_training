@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2018.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cpp_initialization.dir/objects.a
-"C:\Program Files\mingw-w64\x86_64-7.1.0-posix-seh-rt_v5-rev0\mingw64\bin\ar.exe" cr CMakeFiles\cpp_initialization.dir/objects.a @CMakeFiles\cpp_initialization.dir\objects1.rsp
-"C:\Program Files\mingw-w64\x86_64-7.1.0-posix-seh-rt_v5-rev0\mingw64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\cpp_initialization.dir/objects.a -Wl,--no-whole-archive  -o cpp_initialization.exe -Wl,--out-implib,libcpp_initialization.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cpp_initialization.dir\linklibs.rsp

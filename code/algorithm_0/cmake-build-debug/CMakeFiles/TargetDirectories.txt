@@ -1,3 +1,0 @@
-H:/training_cpp/code/algorithm_0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-H:/training_cpp/code/algorithm_0/cmake-build-debug/CMakeFiles/algorithm_0.dir
-H:/training_cpp/code/algorithm_0/cmake-build-debug/CMakeFiles/edit_cache.dir

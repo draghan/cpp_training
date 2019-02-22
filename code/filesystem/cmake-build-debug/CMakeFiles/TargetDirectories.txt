@@ -1,3 +1,0 @@
-H:/training_cpp/code/filesystem/cmake-build-debug/CMakeFiles/filesystem.dir
-H:/training_cpp/code/filesystem/cmake-build-debug/CMakeFiles/edit_cache.dir
-H:/training_cpp/code/filesystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
